@@ -151,15 +151,7 @@ Error generating stack: `+e.message+`
     bg-cyan-500\r
     blur-[150px]\r
     opacity-20\r
-  `}),(0,k.jsx)(`img`,{src:e?`public/images/logo-white1.png`:`public/images/logo-black1.png`,alt:`JASDEGst`,className:`\r
-  relative\r
-  w-72\r
-  md:w-96\r
-  drop-shadow-2xl\r
-  transition-all\r
-  duration-500\r
-  hover:scale-105\r
-`})]})]})})}function we(){return(0,k.jsx)(`section`,{id:`services`,className:`\r
+  `}),(0,k.jsx)(`img`,{src:`https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg`,alt:`React`})]})]})})}function we(){return(0,k.jsx)(`section`,{id:`services`,className:`\r
       py-24\r
       bg-slate-50\r
       dark:bg-slate-900\r
