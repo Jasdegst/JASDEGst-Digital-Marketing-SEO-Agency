@@ -151,7 +151,7 @@ Error generating stack: `+e.message+`
     bg-cyan-500\r
     blur-[150px]\r
     opacity-20\r
-  `}),(0,k.jsx)(`img`,{src:e?`/images/logo-white1.svg`:`/images/logo-black1.svg`,alt:`JASDEGst`,className:`\r
+  `}),(0,k.jsx)(`img`,{src:e?`/images/JASDG.svg`:`/images/logo-black1.svg`,alt:`JASDEGst`,className:`\r
   relative\r
   w-72\r
   md:w-96\r
