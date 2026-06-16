@@ -178,7 +178,7 @@ export default function Hero() {
   />
 
   <img 
-  src="public/images/logo-black1.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
   alt="React"
 
     //src={
