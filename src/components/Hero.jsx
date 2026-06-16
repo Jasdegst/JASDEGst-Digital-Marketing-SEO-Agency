@@ -177,23 +177,10 @@ export default function Hero() {
   "
   />
 
-  <img 
-    src={
-      dark
-      ? "public/images/logo-white1.png"
-      : "public/images/logo-black1.png"
-    }
-    alt="JASDEGst"
-    className="
-  relative
-  w-72
-  md:w-96
-  drop-shadow-2xl
-  transition-all
-  duration-500
-  hover:scale-105
-"
-  />
+ <img
+  src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+  alt="React"
+/>
 </div>
       </div>
     </section>
