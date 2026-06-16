@@ -179,7 +179,13 @@ export default function Hero() {
 
   <img 
   src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-  alt="React"
+  alt="Test"
+  className="
+    w-72
+    md:w-96
+    lg:w-[420px]
+    mx-auto
+  "
 
     //src={
      // dark
