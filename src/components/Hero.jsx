@@ -180,8 +180,8 @@ export default function Hero() {
   <img
     src={
       dark
-        ? "/images/logo-white1.png"
-        : "/images/logo-black1.png"
+        ? "/images/logo-white1.svg"
+        : "/images/logo-black1.svg"
     }
     alt="JASDEGst"
     className="
