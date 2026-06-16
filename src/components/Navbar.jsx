@@ -43,8 +43,8 @@ export default function Navbar() {
           <img
             src={
               dark
-                ? "/images/logo-white1.svg"
-                : "/images/logo-black1.svg"
+                ? "public/images/logo-white1.png"
+                : "public/images/logo-black1.png"
             }
             alt="JASDEGst"
             className="h-10"

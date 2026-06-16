@@ -7,42 +7,42 @@ export default function Articles() {
     {
       title: "Apa Itu SEO dan Mengapa Penting Untuk Bisnis?",
       category: "SEO",
-      image: "/portfolio/project1.jpg",
+      image: "public/imagearticles/Screenshot1.png",
     },
     {
       title: "Cara Membuat Website Bisnis Profesional",
       category: "Website",
-      image: "/portfolio/project2.jpg",
+      image: "public/imagearticles/Screenshot2.png",
     },
     {
       title: "Strategi Digital Marketing Tahun 2026",
       category: "Marketing",
-      image: "/portfolio/project3.jpg",
+      image: "public/imagearticles/Screenshot3.png",
     },
     {
       title: "Cara Meningkatkan Ranking Google",
       category: "SEO",
-      image: "/portfolio/project4.jpg",
+      image: "public/imagearticles/Screenshot4.png",
     },
     {
       title: "Optimasi Website Untuk UMKM",
       category: "Website",
-      image: "/portfolio/project1.jpg",
+      image: "public/imagearticles/Screenshot5.png",
     },
     {
       title: "Panduan Social Media Marketing",
       category: "Marketing",
-      image: "/portfolio/project2.jpg",
+      image: "public/imagearticles/Screenshot5.png",
     },
     {
       title: "Cara Membuat Landing Page yang Menjual",
       category: "Website",
-      image: "/portfolio/project3.jpg",
+      image: "public/imagearticles/Screenshot6.png",
     },
     {
       title: "Strategi Branding Untuk Bisnis Online",
       category: "Branding",
-      image: "/portfolio/project4.jpg",
+      image: "public/imagearticles/Screenshot7.png",
     },
   ];
 

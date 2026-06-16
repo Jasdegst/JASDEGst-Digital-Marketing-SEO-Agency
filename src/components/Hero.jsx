@@ -177,11 +177,11 @@ export default function Hero() {
   "
   />
 
-  <img
+  <img 
     src={
       dark
-        ? "/images/JASDG.svg"
-        : "/images/logo-black1.svg"
+      ? "public/images/logo-white1.png"
+      : "public/images/logo-black1.png"
     }
     alt="JASDEGst"
     className="

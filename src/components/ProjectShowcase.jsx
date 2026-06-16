@@ -5,28 +5,28 @@ const projects = [
     title: "Company Profile Website",
     description:
       "Website company profile modern, responsif, dan SEO Friendly untuk meningkatkan branding bisnis.",
-    image: "/portfolio/mockup1.png",
+    image: "public/portfolio/mockup1.png",
     technologies: ["React", "Tailwind", "SEO"],
   },
   {
     title: "Landing Page Product",
     description:
       "Landing page profesional dengan performa tinggi dan optimasi konversi pelanggan.",
-    image: "/portfolio/mockup2.png",
+    image: "public/portfolio/mockup2.png",
     technologies: ["React", "Marketing", "UI/UX"],
   },
   {
     title: "Digital Agency Website",
     description:
       "Website agency modern dengan desain premium dan optimasi performa.",
-    image: "/portfolio/mockup3.png",
+    image: "public/portfolio/mockup3.png",
     technologies: ["React", "Tailwind", "Branding"],
   },
   {
     title: "E-Commerce Website",
     description:
       "Website toko online responsif dengan pengalaman pengguna yang modern.",
-    image: "/portfolio/mockup4.png",
+    image: "public/portfolio/mockup4.png",
     technologies: ["React", "E-Commerce", "SEO"],
   },
 ];
