@@ -26,7 +26,7 @@ Error generating stack: `+e.message+`
           flex\r
           justify-between\r
           items-center\r
-        `,children:[(0,k.jsxs)(`div`,{className:`flex items-center gap-3`,children:[(0,k.jsx)(`img`,{src:e?`/images/logo-white1.png`:`/images/logo-black1.png`,alt:`JASDEGst`,className:`h-10`}),(0,k.jsx)(`h1`,{className:`\r
+        `,children:[(0,k.jsxs)(`div`,{className:`flex items-center gap-3`,children:[(0,k.jsx)(`img`,{src:e?`public/images/logo-white1.png`:`public/images/logo-black1.png`,alt:`JASDEGst`,className:`h-10`}),(0,k.jsx)(`h1`,{className:`\r
               text-xl\r
               font-bold\r
               text-slate-900\r
@@ -216,7 +216,7 @@ Error generating stack: `+e.message+`
                 mt-4\r
                 text-gray-500\r
                 dark:text-gray-400\r
-                `,children:e.desc})]},t))})]})})}var Te=[{title:`Company Profile Website`,description:`Website company profile modern, responsif, dan SEO Friendly untuk meningkatkan branding bisnis.`,image:`/portfolio/mockup1.png`,technologies:[`React`,`Tailwind`,`SEO`]},{title:`Landing Page Product`,description:`Landing page profesional dengan performa tinggi dan optimasi konversi pelanggan.`,image:`/portfolio/mockup2.png`,technologies:[`React`,`Marketing`,`UI/UX`]},{title:`Digital Agency Website`,description:`Website agency modern dengan desain premium dan optimasi performa.`,image:`/portfolio/mockup3.png`,technologies:[`React`,`Tailwind`,`Branding`]},{title:`E-Commerce Website`,description:`Website toko online responsif dengan pengalaman pengguna yang modern.`,image:`/portfolio/mockup4.png`,technologies:[`React`,`E-Commerce`,`SEO`]}];function Ee(){let[e,t]=(0,_.useState)(!1),n=Te[0];return(0,k.jsxs)(`section`,{id:`projects`,className:`\r
+                `,children:e.desc})]},t))})]})})}var Te=[{title:`Company Profile Website`,description:`Website company profile modern, responsif, dan SEO Friendly untuk meningkatkan branding bisnis.`,image:`public/portfolio/mockup1.png`,technologies:[`React`,`Tailwind`,`SEO`]},{title:`Landing Page Product`,description:`Landing page profesional dengan performa tinggi dan optimasi konversi pelanggan.`,image:`public/portfolio/mockup2.png`,technologies:[`React`,`Marketing`,`UI/UX`]},{title:`Digital Agency Website`,description:`Website agency modern dengan desain premium dan optimasi performa.`,image:`public/portfolio/mockup3.png`,technologies:[`React`,`Tailwind`,`Branding`]},{title:`E-Commerce Website`,description:`Website toko online responsif dengan pengalaman pengguna yang modern.`,image:`public/portfolio/mockup4.png`,technologies:[`React`,`E-Commerce`,`SEO`]}];function Ee(){let[e,t]=(0,_.useState)(!1),n=Te[0];return(0,k.jsxs)(`section`,{id:`projects`,className:`\r
         relative\r
         py-32\r
         bg-white\r
@@ -296,7 +296,7 @@ Error generating stack: `+e.message+`
                           border-black/10\r
                           dark:border-white/10\r
                           text-cyan-500\r
-                        `,children:e},e))})]})]},t))})]})]})}function De(){let[e,t]=(0,_.useState)(!1),n=[{title:`Apa Itu SEO dan Mengapa Penting Untuk Bisnis?`,category:`SEO`,image:`/portfolio/project1.jpg`},{title:`Cara Membuat Website Bisnis Profesional`,category:`Website`,image:`/portfolio/project2.jpg`},{title:`Strategi Digital Marketing Tahun 2026`,category:`Marketing`,image:`/portfolio/project3.jpg`},{title:`Cara Meningkatkan Ranking Google`,category:`SEO`,image:`/portfolio/project4.jpg`},{title:`Optimasi Website Untuk UMKM`,category:`Website`,image:`/portfolio/project1.jpg`},{title:`Panduan Social Media Marketing`,category:`Marketing`,image:`/portfolio/project2.jpg`},{title:`Cara Membuat Landing Page yang Menjual`,category:`Website`,image:`/portfolio/project3.jpg`},{title:`Strategi Branding Untuk Bisnis Online`,category:`Branding`,image:`/portfolio/project4.jpg`}],r=e?n:n.slice(0,6);return(0,k.jsx)(`section`,{id:`articles`,className:`\r
+                        `,children:e},e))})]})]},t))})]})]})}function De(){let[e,t]=(0,_.useState)(!1),n=[{title:`Apa Itu SEO dan Mengapa Penting Untuk Bisnis?`,category:`SEO`,image:`public/imagearticles/Screenshot1.png`},{title:`Cara Membuat Website Bisnis Profesional`,category:`Website`,image:`public/imagearticles/Screenshot2.png`},{title:`Strategi Digital Marketing Tahun 2026`,category:`Marketing`,image:`public/imagearticles/Screenshot3.png`},{title:`Cara Meningkatkan Ranking Google`,category:`SEO`,image:`public/imagearticles/Screenshot4.png`},{title:`Optimasi Website Untuk UMKM`,category:`Website`,image:`public/imagearticles/Screenshot5.png`},{title:`Panduan Social Media Marketing`,category:`Marketing`,image:`public/imagearticles/Screenshot5.png`},{title:`Cara Membuat Landing Page yang Menjual`,category:`Website`,image:`public/imagearticles/Screenshot6.png`},{title:`Strategi Branding Untuk Bisnis Online`,category:`Branding`,image:`public/imagearticles/Screenshot7.png`}],r=e?n:n.slice(0,6);return(0,k.jsx)(`section`,{id:`articles`,className:`\r
         py-24\r
         bg-slate-50\r
         dark:bg-slate-900\r
